@@ -25,3 +25,10 @@ This project was inspired by the [DataCamp Machine Learning Scientist Track](htt
 1. Clone this repository:
    ```bash
    git clone https://github.com/GhazalSadeghpour/Predicting-Movie-Rental-Durations.git
+
+
+## Resources:
+
+- [Using .iloc and other idiomatic pandas code](https://www.datacamp.com/tutorial/pandas-idiomatic)
+- [Machine learning methods](https://www.datacamp.com/blog/supervised-machine-learning)
+- [Scikit-learn cheat sheet](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning)
